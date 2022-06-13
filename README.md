@@ -1,2 +1,10 @@
-# Street-Fighter-game
-Street fighter game, choose your character and opponent's character.
+
+##Game instalation. Run:
+
+`npm install`
+
+`npm run build`
+
+`npm run start`
+
+Open http://localhost:9000/
