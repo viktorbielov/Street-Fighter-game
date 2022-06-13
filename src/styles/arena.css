@@ -62,14 +62,5 @@
   background-color: #ebd759;
 }
 
-@keyframes moveToTheRight {
-  0% {opacity: 1;margin-left:0}
-  90% {opacity: 0.9;margin-left:23vw}
-  100% {opacity: 0;margin-left:20vw}
-}
 
-@keyframes moveToTheLeft {
-  0% {opacity: 1;margin-right:0}
-  90% {opacity: 0.9;margin-right:23vw}
-  100% {opacity: 0;margin-right:25vw}
-}
+
