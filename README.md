@@ -12,11 +12,11 @@ Open http://localhost:9000/
 ##Playing controls:
 
 left player: 
-A - Hit
-D - Block
+A - Hit__
+D - Block__
 Q+W+E - Critical hit(block doesn't affect it)
 
 right player: 
-J - Hit
-L - Block
+J - Hit__
+L - Block__
 U+I+O - Critical hit(block doesn't affect it)
